@@ -3,10 +3,10 @@ Moovbox Mismanagement Utilities
 
 ## Contents
 
-./openvpn_keys: OpenVPN keys/certs extracted from the devices  
-ca.crt  
-dh1024.pem  
-server.key  
+###./openvpn_keys: OpenVPN keys/certs extracted from the devices  
+* ca.crt  
+* dh1024.pem  
+* server.key  
 
 ###./ssh_keys: SSH keys (unique) extracted from devices.  
 * ssh_host_dsa_key - /etc/ssh/ host dsa key.
