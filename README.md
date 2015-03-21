@@ -1,5 +1,8 @@
 # MoovMisManage
-Moovbox Mismanagement Utilities
+Moovbox Mismanagement Utilities. Dump of material (tools, code, keys and certs) from the Icomera Moovbox products reverse engineered for BSides Hannover talk.
+
+## Slides  
+You may find the slides [here on slideshare][slideshare]
 
 ## Contents
 
@@ -23,3 +26,5 @@ Moovbox Mismanagement Utilities
 * moovbox.py - Remote Root Exploit leveraging Shellshock. Gives backconnect shell.   
 * moovmanage_auth.py - Enable/Disable Auth on Moovmanage Web Interface leveraging the Shellshock exploit    
 * moovmanage_extract_creds.py - Credentials extractor for parsing moovbox.settings databases  
+
+[slideshare]: http://www.slideshare.net/infodox/bsides-hannover-2015-shell-on-wheels
